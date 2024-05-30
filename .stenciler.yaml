@@ -1,0 +1,5 @@
+templates:
+-
+  directory: test1
+  raw-copy:
+    - "**"
